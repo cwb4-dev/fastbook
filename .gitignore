@@ -8,3 +8,7 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+
+# DS generated files
+.DS_Store
+.DS_Store?
